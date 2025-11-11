@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Prices stored in cents to avoid floating point precision issues -->
+    <!-- Updated to match requested prices: base R$20, queijo R$2, bacon R$2, onion rings R$3 -->
+    <integer name="base_price_cents">2000</integer>
+    <integer name="cheese_price_cents">200</integer>
+    <integer name="bacon_price_cents">200</integer>
+    <integer name="onion_price_cents">300</integer>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HamburgueriaZ</string>
+
+    <!-- UI labels -->
+    <string name="client_name_hint">Nome do cliente</string>
+    <string name="extras_label">Adicionais</string>
+    <string name="quantity_label">Quantidade</string>
+    <string name="total_label_prefix">Total:</string>
+    <string name="submit_button">Enviar pedido</string>
+
+    <!-- Add-on names (prices will be concatenated programmatically) -->
+    <string name="cheese_name">Queijo</string>
+    <string name="bacon_name">Bacon</string>
+    <string name="onion_name">Cebola</string>
+
+    <!-- Toast / messages -->
+    <string name="toast_sent_fmt">Pedido enviado%s (apenas interface)</string>
+    
+    <!-- Formatting strings to avoid concatenation in code -->
+    <string name="addon_with_price_fmt">%1$s (+%2$s)</string>
+    <string name="total_with_value_fmt">%1$s %2$s</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="quantity_initial">1</string>
+    <string name="make_order">Faça seu pedido</string>
+    <string name="order_summary">Resumo do pedido</string>
+    <string name="banner_desc">Banner da HamburgueriaZ</string>
+</resources>
